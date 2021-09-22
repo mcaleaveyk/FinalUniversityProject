@@ -1,0 +1,36 @@
+C:\Users\mcale\Documents\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.deps.json
+C:\Users\mcale\Documents\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.dll
+C:\Users\mcale\Documents\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.pdb
+C:\Users\mcale\Documents\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.csprojAssemblyReference.cache
+C:\Users\mcale\Documents\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.csproj.CoreCompileInputs.cache
+C:\Users\mcale\Documents\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.AssemblyInfoInputs.cache
+C:\Users\mcale\Documents\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.AssemblyInfo.cs
+C:\Users\mcale\Documents\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.dll
+C:\Users\mcale\Documents\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.pdb
+D:\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.deps.json
+D:\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.dll
+D:\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.pdb
+D:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.csprojAssemblyReference.cache
+D:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.AssemblyInfoInputs.cache
+D:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.AssemblyInfo.cs
+D:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.csproj.CoreCompileInputs.cache
+D:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.dll
+D:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.pdb
+G:\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.deps.json
+G:\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.dll
+G:\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.pdb
+G:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.csprojAssemblyReference.cache
+G:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.csproj.CoreCompileInputs.cache
+G:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.AssemblyInfoInputs.cache
+G:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.AssemblyInfo.cs
+G:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.dll
+G:\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.pdb
+F:\COS grbckup\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.deps.json
+F:\COS grbckup\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.dll
+F:\COS grbckup\COS\COS.Core\bin\Debug\netstandard2.0\COS.Core.pdb
+F:\COS grbckup\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.csprojAssemblyReference.cache
+F:\COS grbckup\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.csproj.CoreCompileInputs.cache
+F:\COS grbckup\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.AssemblyInfoInputs.cache
+F:\COS grbckup\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.AssemblyInfo.cs
+F:\COS grbckup\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.dll
+F:\COS grbckup\COS\COS.Core\obj\Debug\netstandard2.0\COS.Core.pdb

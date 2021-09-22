@@ -1,0 +1,11 @@
+﻿
+@inject NavigationManager Navigation
+@* https://docs.microsoft.com/en-gb/aspnet/core/security/blazor/webassembly/standalone-with-authentication-library?view=aspnetcore-3.1 *@
+
+@code { 
+    protected override void OnInitialized()
+    {
+        Navigation.NavigateTo("login");
+    }
+
+}

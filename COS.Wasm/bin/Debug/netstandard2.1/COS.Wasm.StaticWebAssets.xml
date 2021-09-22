@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/Blazored.Toast" Path="C:\Users\mcale\.nuget\packages\blazored.toast\3.1.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/MatBlazor" Path="C:\Users\mcale\.nuget\packages\matblazor\2.6.2\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\mcale\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\3.2.0\build\..\staticwebassets\" />
+</StaticWebAssets>

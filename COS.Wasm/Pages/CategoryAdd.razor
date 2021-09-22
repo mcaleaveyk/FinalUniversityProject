@@ -1,0 +1,33 @@
+@page "/category/add"
+@inject NavigationManager NavigationManager
+@inject CategoryService Service
+@inject IToastService toastService
+@attribute [Authorize(Roles="Admin")]
+
+<h3 class="mt-4 mb-4">Add Category</h3>
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="categorymenu">Category Management</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Add Category</li>
+    </ol>
+</nav>
+
+<CategoryForm Category="Category" OnSave="OnAddItem" OnCancel="OnCancelAddCategory" />
+
+
+@code {
+    public CategoryDto Category { get; set; } = new CategoryDto();
+
+    private async Task OnAddItem(CategoryDto dto)
+    {
+        var s = await Service.CreateCategory(dto);        
+        NavigationManager.NavigateTo("categorymenu");
+        toastService.ShowSuccess("Category added successfully");
+    }
+
+    private void OnCancelAddCategory()
+    {        
+         NavigationManager.NavigateTo("categorymenu");
+         toastService.ShowInfo("Add category cancelled");
+    }
+}

@@ -1,0 +1,62 @@
+@page "/item/view/{Id:int}"
+@inject NavigationManager NavigationManager
+@inject ItemService Service
+@inject IToastService ToastService
+@attribute [Authorize(Roles="Admin")]
+
+@if (item == null)
+{
+    <p>Loading ....</p>
+}
+else
+{
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="menutest">Menu Management</a></li>
+            <li class="breadcrumb-item active" aria-current="page">View Item</li>
+        </ol>
+    </nav>
+    <div class="row">
+        <div class="col-8">
+            <h3 class="ml-4 mb-4">Item Details</h3>
+            <dl class="row ml-1">
+                <dt class="col-sm-4">Name</dt>
+                <dd class="col-sm-8">@item.Name</dd>
+            
+                <dt class="col-sm-4">Price</dt>
+                <dd class="col-sm-8">@item.Price.ToString("F")</dd>
+
+                <dt class="col-sm-4">Category</dt>
+                <dd class="col-sm-8">@item.Category.Name</dd>
+
+                <dt class="col-sm-4">Description</dt>
+                <dd class="col-sm-8">@item.Description</dd>
+            </dl>
+        </div>
+    </div>
+
+<AuthorizeView Roles="Admin">
+    <button @onclick="(() => UpdateItem(item.Id))" class="btn btn-info btn-sm">Update Item</button>
+</AuthorizeView>
+}
+
+@code{
+    [Parameter] public int Id { get; set; }
+
+    private ItemDto item; 
+
+    protected override async Task OnInitializedAsync()
+    {           
+        var result = await Service.GetItem(Id);  
+        result.Match(
+            s => item = s,
+            e => ToastService.ShowError(e.Message)
+        );
+                  
+    } 
+
+    private void UpdateItem(int id)
+    {
+        NavigationManager.NavigateTo($"item/update/{id}");
+    }
+}

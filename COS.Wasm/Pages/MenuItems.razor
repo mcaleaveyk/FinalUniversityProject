@@ -1,0 +1,193 @@
+@page "/menuitems"
+@inject CategoryService api
+@inject OrderService service
+@inject UserService svc
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider auth
+@inject IToastService ToastService
+@inject UserFavouriteService ufService
+@inject OrderItemService oiService
+@attribute [Authorize]
+
+    @if(categories == null)
+    {
+        <p>Loading...</p>
+    }
+    @if (Order == null)
+    {
+        <p>You dont have an order yet! Click create order to get started.</p>
+
+        <button type="button" class="btn btn-success btn-block mb-1 col-xs-1" @onclick="@(() => CreateOrder(@dto))">Create New Order
+            <span class="oi oi-plus"></span>
+        </button>
+    }
+    else
+    {
+        <div class="container">
+            <div class="row">
+                <button type="button" class="btn btn-info btn-block mb-1 col-xs-1" @onclick="@(() => GoToOrders())">
+                    View Order Cart
+                    <span class="oi oi-cart"></span>
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+            <div class="card">
+                <h5 class="card-title text-center mt-3">Favourites</h5>
+                    <table class="table table-striped">
+                        <tbody>
+                            @if(UserFavourites.Count == 0)
+                            {
+                                <td class="text-center"><p>Your favourites will appear here.</p></td>
+                            }
+                            @foreach (var s in UserFavourites)
+                            {
+                                <tr>
+                                    <td><a href="" @onclick="@(() => ToastService.ShowInfo(@s.Description, @s.Name))" @onclick:preventDefault>@s.Name</a></td>
+                                    <td>@($"£{s.Price.ToString("F")}")</td>
+                                    <td class="text-right">
+                                        <button class="btn btn-success btn-sm" disabled=@IsTaskRunning @onclick="@(() => AddItemToOrder(s.Id))">
+                                            <span class="oi oi-plus"></span>
+                                        </button>
+                                        <button class="btn btn-danger btn-sm" disabled=@IsTaskRunning @onclick="@(() => RemoveItemFromFavourites(@UserId, s.Id))">
+                                            <span class="oi oi-arrow-left"></span>
+                                        </button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            @foreach (var s in categories)
+            {
+                <div class="col-12">
+                    <CategoryCard Category="@s" OrderId=@Order.Id UserId=@UserId OnUserFavouriteAdded="() => UserFavouriteAdded()" />
+                </div>
+            }
+
+            <MatFAB Class="@(isAbsolute ? "app-fab--absolute" : "")" Icon="@MatIconNames.Shopping_cart" OnClick="@(_ => GoToOrders())"></MatFAB>
+        </div>
+    }
+
+@*Wouldnt work when on stylesheet*@
+    <style>
+        .app-fab--absolute {
+            position: fixed;
+            bottom: 1rem;
+            right: 1rem;
+            margin-bottom: 12px;
+        }
+    </style>
+
+
+@code {
+    //Added as double clicking buttons caused error
+    public bool IsTaskRunning = false;
+
+    private IList<CategoryDto> categories = new List<CategoryDto>();
+    private IList<ItemDto> UserFavourites = new List<ItemDto>();
+
+    private AddItemToOrderDto addItemDto { get; set; } = new AddItemToOrderDto();
+
+    private int UserId { get; set; }
+
+    private UserDto User { get; set; }
+
+    public CreateOrderDto dto { get; set; } = new CreateOrderDto();
+
+    public OrderDto Order { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        //get categories
+        categories = await api.GetCategoriesForUser();
+
+        //get current userId onInitialise
+        var authstate = await auth.GetAuthenticationStateAsync();
+        var user = authstate.User;
+        
+        //user related
+        int x = 0;
+        Int32.TryParse(user.Identity.Name, out x);
+        UserId = x;
+
+        //createOrderDto property set
+        dto.UserId = UserId;
+
+        //make the users most recent unsubmitted order the current order
+        var result = await service.GetUserMostRecentUnsubmittedOrder(UserId);
+        result.Match(
+            s => Order = s,
+            e => ToastService.ShowInfo($"You dont have an order yet. Press 'Create order' to get started")
+        );
+
+        //load user's favourites
+        UserFavourites = await ufService.GetFavouriteItems(UserId);
+
+    }
+
+    private void GoToOrders()
+    {
+        NavigationManager.NavigateTo($"userorders");
+    }
+
+    protected async Task AddItemToOrder(int itemId)
+    {
+        IsTaskRunning = true;
+
+        addItemDto.OrderId = Order.Id;
+        addItemDto.ItemId = itemId;
+
+        var result = await oiService.AddItemToOrder(addItemDto);
+        result.Match(
+                s => {
+                    ToastService.ShowSuccess($"Item added to order successfully");
+                },
+                e => ToastService.ShowError(e.Message)
+        );
+
+        IsTaskRunning = false;
+    }
+
+    protected async Task RemoveItemFromFavourites(int userId, int itemId)
+    {
+        IsTaskRunning = true;
+
+        var result = await ufService.DeleteItemFromFavourites(userId, itemId);
+        result.Match(
+            s => {
+                ToastService.ShowSuccess("Favourite deleted successfully");
+            },
+            e => ToastService.ShowError(e.Message)
+        );
+        UserFavourites = await ufService.GetFavouriteItems(UserId);
+
+        IsTaskRunning = false;
+    }
+
+    protected async Task UserFavouriteAdded()
+    {
+        IsTaskRunning = true;
+        UserFavourites = await ufService.GetFavouriteItems(UserId);
+        IsTaskRunning = false;
+    }
+
+    protected async Task CreateOrder(CreateOrderDto coDto)
+    {
+        IsTaskRunning = true;
+        
+        var result = await service.CreateOrder(coDto);
+        result.Match(
+            i => Order = i,
+            e => ToastService.ShowError(e.Message)
+        );
+
+        IsTaskRunning = false;
+        ToastService.ShowSuccess($"Order created successfully");
+    }
+
+    bool isAbsolute = true;
+
+}

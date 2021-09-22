@@ -1,0 +1,87 @@
+@inject IToastService toastService
+@inject OrderItemService api
+@inject OrderService service
+
+<div class="card m-2" style="width: 25rem;">
+    <h5 class="card-title text-center mt-3">OrderId: @Order.Id</h5>
+    <div class="card-body">       
+        <table class="table table-striped">
+            <tbody>
+                @foreach(var s in Order.OrderItems)
+                {
+                    <tr>
+                        <td>@s.Name</td>
+                        <td>@($"{s.Quantity} x")</td>
+                        <td>@($"£{s.Price.ToString("F")}")</td>
+                        <td><button class="btn btn-danger btn-sm" disabled=@IsTaskRunning @onclick="@(() => RemoveItemFromOrder(s.OrderId, s.ItemId))">
+                            <span class ="oi oi-trash"></span></button>
+                        </td> 
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="card-footer">
+        <div class="d-flex justify-content-around">
+            <h6>Total: @($"£{Order.TotalPrice.ToString("F")}")</h6>  
+                <button class="btn btn-danger btn-sm ml-1"@onclick="@(() => DeleteOrder(@Order.Id))">Delete Order</button>           
+            <button class="btn btn-success btn-sm"@onclick="@(() => Update())">Place Order
+                <span class="oi oi-arrow-right mr-1" aria-hidden="true"></span>
+            </button>           
+        </div>
+    </div>
+</div>
+
+@code{
+    public bool IsTaskRunning = false;
+
+    [Parameter]
+    public OrderDto Order { get; set; }
+
+    [Parameter]
+    public EventCallback<OrderDto> OnOrderItemDeleted { get; set; }
+
+    [Parameter]
+    public EventCallback<OrderDto> OnOrderDeleted { get; set; }
+    
+    [Parameter]
+    public EventCallback OnUpdate { get; set; }
+
+
+
+    protected async Task RemoveItemFromOrder(int orderId, int itemId)
+    {
+        IsTaskRunning = true;
+        var result = await api.DeleteItemFromOrder(orderId, itemId); 
+            result.Match(
+                s => {
+                    toastService.ShowSuccess("Order Item deleted successfully");
+                },
+                e => toastService.ShowError(e.Message)
+            ); 
+        await OnOrderItemDeleted.InvokeAsync(Order);
+        IsTaskRunning = false;
+            
+    }
+
+    protected async Task DeleteOrder(int orderId)
+    {
+        IsTaskRunning = true;
+        Console.WriteLine("Deleting Order");
+        var result = await service.DeleteOrder(orderId); 
+            result.Match(
+                s => {
+                    toastService.ShowSuccess("Order deleted successfully");
+                },
+                e => toastService.ShowError(e.Message)
+            ); 
+        await OnOrderDeleted.InvokeAsync(Order);
+        IsTaskRunning = false;
+    }
+
+    private void Update()
+    {
+        OnUpdate.InvokeAsync(null);
+    }
+    
+}

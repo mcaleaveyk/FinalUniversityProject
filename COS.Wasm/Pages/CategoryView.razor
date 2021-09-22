@@ -1,0 +1,75 @@
+@page "/category/view/{Id:int}"
+@inject NavigationManager NavigationManager
+@inject CategoryService Service
+@inject IToastService ToastService
+@attribute [Authorize(Roles="Admin")]
+
+@if (category == null)
+{
+    <p>Loading ....</p>
+}
+else
+{
+    <h3>Category: @category.Name</h3>
+
+    <AuthorizeView Roles="Admin">
+    <button @onclick="AddItem" class="btn btn-primary btn-sm mr-2 mb-2 mt-2"> 
+        <span class="oi oi-plus mr-2" aria-hidden="true"></span>Add Item
+    </button>
+    </AuthorizeView>
+
+
+    <div>
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var s in category.Items)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+                    <td>@($"£{s.Price.ToString("F")}")</td>
+                    <td> <button @onclick="(() => UpdateItem(s.Id))" class="btn btn-info btn-sm">
+                        <span class ="oi oi-pencil"></span></button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+}
+
+@code{
+
+    [Parameter] public int Id { get; set; }
+
+    private CategoryDto category; 
+
+    protected override async Task OnInitializedAsync()
+    {           
+        var result = await Service.GetCategory(Id);  
+        result.Match(
+            s => category = s,
+            e => ToastService.ShowError(e.Message)
+        );
+                  
+    } 
+
+    private void AddItem()
+    {
+        NavigationManager.NavigateTo("item/add");
+    }
+
+    private void UpdateItem(int id)
+    {
+        NavigationManager.NavigateTo($"item/update/{id}");
+    }
+
+}

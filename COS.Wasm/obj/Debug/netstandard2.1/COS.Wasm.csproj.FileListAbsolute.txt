@@ -1,0 +1,1936 @@
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.StaticWebAssets.xml
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.pdb
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker.js
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Accelist.FluentValidation.Blazor.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.pdb
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.pdb
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Accelist.FluentValidation.Blazor.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.pdb.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.pdb.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Accelist.FluentValidation.Blazor.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Blazored.LocalStorage.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Blazored.Toast.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\FluentValidation.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Core.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Core.pdb
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csprojAssemblyReference.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csproj.CoreCompileInputs.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorComponent.input.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemAdd.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemUpdate.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemView.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Logout.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MenuTest.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Alert.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\ItemForm.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavLogin.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\COS.Wasm.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.TagHelpers.input.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.TagHelpers.output.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorCoreGenerate.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemAdd.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemUpdate.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemView.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Login.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Logout.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\MenuTest.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Register.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\Alert.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\ItemForm.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\NavLogin.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\RedirectToLogin.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.AssemblyInfoInputs.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.AssemblyInfo.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorTargetAssemblyInfo.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csproj.CopyComplete
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\unlinked.output
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\1xfOnnlZZg19s2R3vH-UX9m3dprauIFLdeaYzgmiwc0=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\OoZlIAQALoE1j-5W7Dezn1xMsDY9YNG3XUeYBrh9YhM=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Jr8LBX0LZMXZn88p9cDnU1p5TPqVKE-QQfqwQriLyaU=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\n8Ge_gK1XYI0MBIiOt0tCAYuU0GbBaNNeJTsJFAMLMU=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\SnlpX7tqR4Or48_LUVR7CMv3xLhjy1JBnmDfQCb2GwM=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\D1gbYUWxCdwEKvWRcGQoVikKs0zgWMUenGMDEaDRxrc=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\0tyMwROLk1T7Zk3sBPCBmYsmeKF_OXHob6Ivyy7naNU=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Cez7S4apNGKRymvbMGFYR2TS5KrbEgqTuT4LSwQZKi8=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\iqCTExKPC76hORseVGmhVc1uwSgrTDloPHWYiyzt36Q=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\rDxOhAkkG0rzM8mDToRsneyatLZ3m_OyLTXPRA81ZKw=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ROy00p56saSEbyOGgwnu8op__-jeRfR6GYOOLp_fVw4=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Accelist.FluentValidation.Blazor.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.pdb.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.pdb.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Accelist.FluentValidation.Blazor.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.pdb.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.pdb.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\staticwebassets\COS.Wasm.StaticWebAssets.Manifest.cache
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\staticwebassets\COS.Wasm.StaticWebAssets.xml
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.dll
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.pdb
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryMenu.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryMenu.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryAdd.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryAdd.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CategoryForm.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\CategoryForm.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryView.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryView.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryUpdate.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryUpdate.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderMenu.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderMenu.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderView.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderView.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderMenuAll.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderMenuAll.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserView.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserView.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CategoryCard.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\CategoryCard.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MenuItems.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\MenuItems.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\o_nIDOlv_7C51lX5qskB167ESJHrLYQiPQU9lsq7bOk=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\GKaZ0pXdDDK2UC6Tw1-gfhTeOXd3CwLpmzElLFXH2Yg=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\CROii6U-WcOecMUC573SxJfwyoWbwOwlUT92yCPEh8Q=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\INh_HEyd1tejV3ZiCSKTS1pM9lhRRmWPDPOhWVHgiPY=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\4AR-s5kiD6WZfdsfrOTAC7K5ZH8nISQUl5_ibhhhGxM=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\FLKi_O-D48y2Q_u0cQQAJwAzEN1bflbewrsQC0o3WCE=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\EMaZcXm5dyuOLalqRCroNj2uXZHt_SfWSic9GJZhE7g=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\S0Mw1WRROQ8J783YownTK43tCbYVuNvL6SdEV-W9LH4=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\P1OQnoHnOHvc97vE2VWr6zImvNN0VhdUxnH1ccLhuH0=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\21Eo58gZGe1h56KPVgJXZnNVIdVd6CjTrjnPM3RFMGI=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\wiJ-tTsfR06mqIO4AUWTWR8o2QTwBlCvRdrZZzf66aQ=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserOrders.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\OrderCard.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserOrders.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\OrderCard.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderUpdate.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\OrderUpdateForm.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderUpdate.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\OrderUpdateForm.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderDelete.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderDelete.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\F6kUShr-6INlpuwuQms7HUDqjJyIOC1SyQ6F6cyPVHk=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\TnIiVliIZNEVTVRljMGsTi6RnCpLFsS_cJZFlWl44gg=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserSubmittedOrders.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserSubmittedOrders.razor.g.cs
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ZRsYCii7kAHyI1yQ4LMlP9miUnVI5mYWuifbupujeDw=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\RhbweTUbhCJ42hXGBTOi6RR5sHF1LYh-tG9E2T-F9U8=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Zjh4Dw0fE0WOsNOCZpRx-JYQ-LKFc0Y_yqt-thU-ObU=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\b8lHcsBypPvF4MjVsCkdQg5g3pdisYUhaHz2hA9LTTM=.hash
+C:\Users\mcale\Documents\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\8nQpyQHgg-UwYdcJ_geuF0rIU4BoPrEB4R3DVQIELzM=.hash
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Properties\launchSettings.json
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.StaticWebAssets.xml
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.pdb
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker.js
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Accelist.FluentValidation.Blazor.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.pdb
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.pdb
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Accelist.FluentValidation.Blazor.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.pdb.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.pdb.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Accelist.FluentValidation.Blazor.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Blazored.LocalStorage.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Blazored.Toast.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\FluentValidation.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Authorization.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Buffers.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Memory.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Text.Json.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Core.dll
+D:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Core.pdb
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csprojAssemblyReference.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.AssemblyInfoInputs.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.AssemblyInfo.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csproj.CoreCompileInputs.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorComponent.input.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryAdd.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryMenu.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryUpdate.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryView.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemAdd.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemUpdate.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemView.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Login.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Logout.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MenuItems.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MenuTest.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderDelete.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderMenu.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderMenuAll.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderUpdate.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderView.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Register.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserOrders.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserSubmittedOrders.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserView.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Alert.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CategoryCard.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CategoryForm.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\ItemForm.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavLogin.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\OrderCard.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\OrderUpdateForm.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\COS.Wasm.dll
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.TagHelpers.input.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.TagHelpers.output.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorCoreGenerate.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryAdd.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryMenu.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryUpdate.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryView.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemAdd.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemUpdate.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemView.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Login.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Logout.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\MenuItems.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\MenuTest.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderDelete.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderMenu.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderMenuAll.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderUpdate.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderView.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Register.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserOrders.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserSubmittedOrders.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserView.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\Alert.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\CategoryCard.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\CategoryForm.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\ItemForm.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\NavLogin.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\OrderCard.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\OrderUpdateForm.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\RedirectToLogin.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorTargetAssemblyInfo.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csproj.CopyComplete
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\unlinked.output
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\1xfOnnlZZg19s2R3vH-UX9m3dprauIFLdeaYzgmiwc0=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\OoZlIAQALoE1j-5W7Dezn1xMsDY9YNG3XUeYBrh9YhM=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\o_nIDOlv_7C51lX5qskB167ESJHrLYQiPQU9lsq7bOk=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Jr8LBX0LZMXZn88p9cDnU1p5TPqVKE-QQfqwQriLyaU=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\GKaZ0pXdDDK2UC6Tw1-gfhTeOXd3CwLpmzElLFXH2Yg=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\CROii6U-WcOecMUC573SxJfwyoWbwOwlUT92yCPEh8Q=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\n8Ge_gK1XYI0MBIiOt0tCAYuU0GbBaNNeJTsJFAMLMU=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\INh_HEyd1tejV3ZiCSKTS1pM9lhRRmWPDPOhWVHgiPY=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\4AR-s5kiD6WZfdsfrOTAC7K5ZH8nISQUl5_ibhhhGxM=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\FLKi_O-D48y2Q_u0cQQAJwAzEN1bflbewrsQC0o3WCE=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\EMaZcXm5dyuOLalqRCroNj2uXZHt_SfWSic9GJZhE7g=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\S0Mw1WRROQ8J783YownTK43tCbYVuNvL6SdEV-W9LH4=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\P1OQnoHnOHvc97vE2VWr6zImvNN0VhdUxnH1ccLhuH0=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\D1gbYUWxCdwEKvWRcGQoVikKs0zgWMUenGMDEaDRxrc=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\0tyMwROLk1T7Zk3sBPCBmYsmeKF_OXHob6Ivyy7naNU=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\21Eo58gZGe1h56KPVgJXZnNVIdVd6CjTrjnPM3RFMGI=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\SnlpX7tqR4Or48_LUVR7CMv3xLhjy1JBnmDfQCb2GwM=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Cez7S4apNGKRymvbMGFYR2TS5KrbEgqTuT4LSwQZKi8=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\wiJ-tTsfR06mqIO4AUWTWR8o2QTwBlCvRdrZZzf66aQ=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\iqCTExKPC76hORseVGmhVc1uwSgrTDloPHWYiyzt36Q=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\rDxOhAkkG0rzM8mDToRsneyatLZ3m_OyLTXPRA81ZKw=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ROy00p56saSEbyOGgwnu8op__-jeRfR6GYOOLp_fVw4=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Accelist.FluentValidation.Blazor.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.pdb.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.pdb.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Accelist.FluentValidation.Blazor.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.pdb.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.pdb.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\staticwebassets\COS.Wasm.StaticWebAssets.Manifest.cache
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\staticwebassets\COS.Wasm.StaticWebAssets.xml
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.dll
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.pdb
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\hYyasysc-38W6ghV5KRbqpHbxFEIHylYDeOerqMoPrk=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ZmMNhROvepjsmqSjHGlauX-HCTty2t9lFa9-AUZ_HWE=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\p8DauGtR2gxNgxFaZHRgdyw1GyPsqaiRJIX7GmKb9UU=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\mUwNiLlvojiqXsapS6N9LqdFOQEx9SkT2jVE9Ns8kwM=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\pgot4EQ02rC6VxAZVtlnWfGfo-IypUf9_LR9rEm1gKE=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\UD9ebQtK4Nkk0WvEGvbQqJ1BIudX5ehYDOAem01QTeU=.hash
+D:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\XVZnjcLE75BGBoxnkQTUetmhq8fRiznAEcWqiU7AcOI=.hash
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Properties\launchSettings.json
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.StaticWebAssets.xml
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.pdb
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker.js
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Accelist.FluentValidation.Blazor.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.pdb
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.pdb
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Accelist.FluentValidation.Blazor.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.pdb.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.pdb.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Accelist.FluentValidation.Blazor.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Blazored.LocalStorage.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Blazored.Toast.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\FluentValidation.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\FluentValidation.DependencyInjectionExtensions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Authorization.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Buffers.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Memory.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Text.Json.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Core.dll
+G:\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Core.pdb
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csprojAssemblyReference.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csproj.CoreCompileInputs.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorComponent.input.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryAdd.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryMenu.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryUpdate.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryView.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemAdd.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemUpdate.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemView.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Login.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Logout.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MenuItems.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MenuTest.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderDelete.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderMenu.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderMenuAll.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderUpdate.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderView.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Register.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserOrders.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserSubmittedOrders.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserView.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Alert.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CategoryCard.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CategoryForm.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\ItemForm.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavLogin.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\OrderCard.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\OrderUpdateForm.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\COS.Wasm.dll
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.TagHelpers.input.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.TagHelpers.output.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorCoreGenerate.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryAdd.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryMenu.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryUpdate.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryView.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemAdd.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemUpdate.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemView.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Login.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Logout.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\MenuItems.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\MenuTest.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderDelete.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderMenu.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderMenuAll.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderUpdate.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderView.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Register.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserOrders.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserSubmittedOrders.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserView.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\Alert.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\CategoryCard.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\CategoryForm.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\ItemForm.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\NavLogin.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\OrderCard.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\OrderUpdateForm.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\RedirectToLogin.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.AssemblyInfoInputs.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.AssemblyInfo.cs
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorTargetAssemblyInfo.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csproj.CopyComplete
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\unlinked.output
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Yxce8pviQQr3MpMaJfUWV3VfpmEHrLQ0GbxXe3E2qwo=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\1xfOnnlZZg19s2R3vH-UX9m3dprauIFLdeaYzgmiwc0=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\OoZlIAQALoE1j-5W7Dezn1xMsDY9YNG3XUeYBrh9YhM=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\o_nIDOlv_7C51lX5qskB167ESJHrLYQiPQU9lsq7bOk=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Jr8LBX0LZMXZn88p9cDnU1p5TPqVKE-QQfqwQriLyaU=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\GKaZ0pXdDDK2UC6Tw1-gfhTeOXd3CwLpmzElLFXH2Yg=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\CROii6U-WcOecMUC573SxJfwyoWbwOwlUT92yCPEh8Q=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\n8Ge_gK1XYI0MBIiOt0tCAYuU0GbBaNNeJTsJFAMLMU=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\INh_HEyd1tejV3ZiCSKTS1pM9lhRRmWPDPOhWVHgiPY=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\4AR-s5kiD6WZfdsfrOTAC7K5ZH8nISQUl5_ibhhhGxM=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\FLKi_O-D48y2Q_u0cQQAJwAzEN1bflbewrsQC0o3WCE=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\EMaZcXm5dyuOLalqRCroNj2uXZHt_SfWSic9GJZhE7g=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\S0Mw1WRROQ8J783YownTK43tCbYVuNvL6SdEV-W9LH4=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\P1OQnoHnOHvc97vE2VWr6zImvNN0VhdUxnH1ccLhuH0=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\D1gbYUWxCdwEKvWRcGQoVikKs0zgWMUenGMDEaDRxrc=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\0tyMwROLk1T7Zk3sBPCBmYsmeKF_OXHob6Ivyy7naNU=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\21Eo58gZGe1h56KPVgJXZnNVIdVd6CjTrjnPM3RFMGI=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\SnlpX7tqR4Or48_LUVR7CMv3xLhjy1JBnmDfQCb2GwM=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\zqqGmMrdOkBZKH0O9e65rIk4PB8BeHi_a4zfVhLXB8E=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Cez7S4apNGKRymvbMGFYR2TS5KrbEgqTuT4LSwQZKi8=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\wiJ-tTsfR06mqIO4AUWTWR8o2QTwBlCvRdrZZzf66aQ=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\iqCTExKPC76hORseVGmhVc1uwSgrTDloPHWYiyzt36Q=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\rDxOhAkkG0rzM8mDToRsneyatLZ3m_OyLTXPRA81ZKw=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ROy00p56saSEbyOGgwnu8op__-jeRfR6GYOOLp_fVw4=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\wan3mOrVOyS0qVxyTVjnCKs9oNL6j14AcBGY8KcHQTk=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\91QlCSyZ_hiufgVgPyxAzf4NFWE7rte095y1_mXNr8M=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\uNZUBJleZWF-SFQZwqdLNMNB0XfkLTJI0O3APWvcUO0=.hash
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Accelist.FluentValidation.Blazor.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.pdb.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.pdb.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Accelist.FluentValidation.Blazor.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.pdb.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.pdb.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\staticwebassets\COS.Wasm.StaticWebAssets.Manifest.cache
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\staticwebassets\COS.Wasm.StaticWebAssets.xml
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.dll
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.pdb
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
+G:\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\wmMrdXqEcYAnwmU1i2ZldfzA9_7WxYaY3BWD3bLUP4k=.hash
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Properties\launchSettings.json
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.StaticWebAssets.xml
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Wasm.pdb
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker.js
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Accelist.FluentValidation.Blazor.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.pdb
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.pdb
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\service-worker-assets.js.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\FluentValidation.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Accelist.FluentValidation.Blazor.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.Toast.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Wasm.pdb.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\COS.Core.pdb.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Accelist.FluentValidation.Blazor.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Blazored.LocalStorage.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Blazored.Toast.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\FluentValidation.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\FluentValidation.DependencyInjectionExtensions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Authorization.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Buffers.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Memory.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Text.Json.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Core.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\COS.Core.pdb
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csprojAssemblyReference.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csproj.CoreCompileInputs.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorComponent.input.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryAdd.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryMenu.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryUpdate.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\CategoryView.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemAdd.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemUpdate.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\ItemView.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Login.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Logout.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MenuItems.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\MenuTest.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderDelete.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderMenu.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderMenuAll.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderUpdate.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\OrderView.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Register.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserOrders.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserSubmittedOrders.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\UserView.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\Alert.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CategoryCard.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\CategoryForm.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\ItemForm.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavLogin.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\OrderCard.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\OrderUpdateForm.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\RazorDeclaration\COS.Wasm.dll
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.TagHelpers.input.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.TagHelpers.output.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorCoreGenerate.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryAdd.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryMenu.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryUpdate.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\CategoryView.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemAdd.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemUpdate.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\ItemView.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Login.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Logout.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\MenuItems.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\MenuTest.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderDelete.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderMenu.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderMenuAll.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderUpdate.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\OrderView.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\Register.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserOrders.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserSubmittedOrders.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Pages\UserView.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\Alert.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\CategoryCard.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\CategoryForm.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\ItemForm.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\NavLogin.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\OrderCard.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\OrderUpdateForm.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\Shared\RedirectToLogin.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.AssemblyInfoInputs.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.AssemblyInfo.cs
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.RazorTargetAssemblyInfo.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.csproj.CopyComplete
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\unlinked.output
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\1xfOnnlZZg19s2R3vH-UX9m3dprauIFLdeaYzgmiwc0=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\OoZlIAQALoE1j-5W7Dezn1xMsDY9YNG3XUeYBrh9YhM=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\o_nIDOlv_7C51lX5qskB167ESJHrLYQiPQU9lsq7bOk=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Jr8LBX0LZMXZn88p9cDnU1p5TPqVKE-QQfqwQriLyaU=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\GKaZ0pXdDDK2UC6Tw1-gfhTeOXd3CwLpmzElLFXH2Yg=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\CROii6U-WcOecMUC573SxJfwyoWbwOwlUT92yCPEh8Q=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\n8Ge_gK1XYI0MBIiOt0tCAYuU0GbBaNNeJTsJFAMLMU=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\INh_HEyd1tejV3ZiCSKTS1pM9lhRRmWPDPOhWVHgiPY=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\4AR-s5kiD6WZfdsfrOTAC7K5ZH8nISQUl5_ibhhhGxM=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\FLKi_O-D48y2Q_u0cQQAJwAzEN1bflbewrsQC0o3WCE=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\EMaZcXm5dyuOLalqRCroNj2uXZHt_SfWSic9GJZhE7g=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\S0Mw1WRROQ8J783YownTK43tCbYVuNvL6SdEV-W9LH4=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\P1OQnoHnOHvc97vE2VWr6zImvNN0VhdUxnH1ccLhuH0=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\D1gbYUWxCdwEKvWRcGQoVikKs0zgWMUenGMDEaDRxrc=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\0tyMwROLk1T7Zk3sBPCBmYsmeKF_OXHob6Ivyy7naNU=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\21Eo58gZGe1h56KPVgJXZnNVIdVd6CjTrjnPM3RFMGI=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\SnlpX7tqR4Or48_LUVR7CMv3xLhjy1JBnmDfQCb2GwM=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Cez7S4apNGKRymvbMGFYR2TS5KrbEgqTuT4LSwQZKi8=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\wiJ-tTsfR06mqIO4AUWTWR8o2QTwBlCvRdrZZzf66aQ=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\iUTfpj7A29tIp2gl2fLM_w1MwyI8XMmUV8gFe_mJBZI=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\iqCTExKPC76hORseVGmhVc1uwSgrTDloPHWYiyzt36Q=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\rDxOhAkkG0rzM8mDToRsneyatLZ3m_OyLTXPRA81ZKw=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ROy00p56saSEbyOGgwnu8op__-jeRfR6GYOOLp_fVw4=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\zNP4aHLW-rhi6gW72YV8xGy1rLa_RQZtwvWEpiwBSrs=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Accelist.FluentValidation.Blazor.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.pdb.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.pdb.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\service-worker-assets.js.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.DependencyInjectionExtensions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\FluentValidation.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Accelist.FluentValidation.Blazor.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Wasm.pdb.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\COS.Core.pdb.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\staticwebassets\COS.Wasm.StaticWebAssets.Manifest.cache
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\staticwebassets\COS.Wasm.StaticWebAssets.xml
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.dll
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\COS.Wasm.pdb
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\XmJVTrT91cGRDiC0sHs_XiHf-icWxLxAVDLInGAP9qE=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\t45vV7cI2d9KUGUyet0aDZ4XQ0JcVVB8mQcFqnO72wA=.hash
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\MatBlazor.dll
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\MatBlazor.dll.gz
+F:\COS grbckup\COS\COS.Wasm\bin\Debug\netstandard2.1\MatBlazor.dll
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\GkxEUWOV5DQkBhRzXtHaIvV9qIPpFArDw0opKRbWSnI=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\MatBlazor.dll.gz
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\compressed\_framework\_bin\MatBlazor.dll.br
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\ZviGQ8Xb2bCHdiQw2Pr3Ra7rhvCCXXJCbS1uq5cbP9s=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\-jrYYIcxabSAMPd_i4t1PI9tEKbvZrmFGUDvCyBqR_g=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\unxsJO1Zjn--uhggGw1N6nG8UXZ_sjR48Cbifwp38d0=.hash
+F:\COS grbckup\COS\COS.Wasm\obj\Debug\netstandard2.1\integrity\Q5rYFuG9n8AuwAeZJ0Avm7OmixqUJ7zw0ZdTNGjaO14=.hash

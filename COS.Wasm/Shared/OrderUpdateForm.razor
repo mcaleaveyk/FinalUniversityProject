@@ -1,0 +1,52 @@
+@inject OrderService api
+@using COS.Wasm.Pages
+
+<EditForm Model="@Order" OnValidSubmit="Save">
+    <FluentValidator />
+
+        <div class="form-group col-xs">
+            <label for="DueFor">Due for:</label>
+            <MatDatePicker @bind-Value="Order.DueFor" EnableTime="true"></MatDatePicker>
+            <ValidationMessage For="@(() => Order.DueFor)"/>
+        </div>
+                
+        <div class="form-group col-xs">
+            <label for="Takeaway">Takeaway?</label>
+            <InputCheckbox id="Takeaway" @bind-Value="Order.Takeaway" class="form-control" />
+        </div>
+        
+        <div class="form-group col-xs">
+            <label for="Description">Message for server:</label>
+            <InputTextArea id="Description" @bind-Value="Order.Comment" class="form-control" />
+            <ValidationMessage For="@(() => Order.Comment)"/>
+        </div>
+
+
+        <div class="form-group mb-4 mt-4">
+            <button type="submit" class="btn btn-primary">Submit Order</button>
+            <button class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+        </div>
+    
+</EditForm>
+
+@code{
+
+    [Parameter]
+    public OrderDto Order { get; set; }
+
+    [Parameter] 
+    public EventCallback<OrderDto> OnSave { get; set; }
+
+    [Parameter] 
+    public EventCallback OnCancel { get; set; }
+    
+    private void Cancel()
+    {
+        OnCancel.InvokeAsync(null);
+    }
+
+    private void Save() 
+    {       
+        OnSave.InvokeAsync(Order);       
+    }
+}

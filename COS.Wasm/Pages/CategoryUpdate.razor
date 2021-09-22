@@ -1,0 +1,57 @@
+@page "/category/update/{Id:int}"
+@inject NavigationManager NavigationManager
+@inject CategoryService Service
+@inject IToastService ToastService
+@attribute [Authorize(Roles="Admin")]
+
+
+@if(Category == null)
+{   
+     <p>Loading category...</p>
+}
+else
+{
+    <nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="categorymenu">Caegory Management</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Update Category</li>
+    </ol>
+</nav>
+    <h3 class="mt-4 mb-4">Update Category: @Category.Name</h3>
+    <CategoryForm Category="Category" OnSave="Save" OnCancel="Cancel"></CategoryForm>
+}
+
+@code{
+
+    [Parameter]
+    public int Id { get; set; }
+
+    public CategoryDto Category { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {      
+        var result = await Service.GetCategory(Id);  
+        result.Match(
+            i => Category = i,
+            e => ToastService.ShowError(e.Message)
+        );       
+    }
+
+    private async Task Save()
+    {
+        var result = await Service.UpdateCategory(Category); 
+        result.Match(
+            i => { 
+                NavigationManager.NavigateTo("categorymenu");
+                ToastService.ShowSuccess("Category updated successfully");
+            },
+            e => ToastService.ShowError(e.Message)
+        );
+    }
+
+    private void Cancel()
+    {        
+        NavigationManager.NavigateTo("categorymenu");
+        ToastService.ShowInfo("Category update cancelled");
+    }
+}

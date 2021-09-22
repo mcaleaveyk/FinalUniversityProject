@@ -1,0 +1,17 @@
+namespace COS.Core.DTOs
+{
+    public class ItemDto {        
+        public int Id { get; set; }
+        public int CategoryId { get; set; }
+        public string Name { get; set; }
+        public decimal Price { get; set; }
+        public string Description { get; set; }
+        public bool InStock { get; set; }
+        //coverted size to int
+        public int Size { get; set; }
+        public CategoryDto Category { get; set; }
+
+    
+
+    }
+}

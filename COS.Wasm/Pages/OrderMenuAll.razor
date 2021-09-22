@@ -1,0 +1,118 @@
+@page "/ordermenu/all"
+@inject OrderService api
+@inject NavigationManager NavigationManager
+@inject IToastService toastService
+@attribute [Authorize(Roles="Admin")]
+
+
+<div class="table-responsive">
+    <h3>All Orders</h3>
+        <div>
+            <button @onclick="(() => GoToActiveOrders())" class="mb-2 btn btn-info btn-sm">Get Active Orders</button>
+        </div>
+        
+        <table margin-bottom class="table table-striped table-sm">
+            <thead class="thead-dark text-center">
+                <tr>
+                    <th>OrderId</th>
+                    <th>UserId</th>
+                    <th>Order Placed</th>
+                    <th>Due For</th>
+                    <th class="text-center">Order Ready</th>
+                    <th class ="text-center">OrderFulfilled</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody class="text-center">
+                @foreach(var s in Orders)
+                {
+                    <tr>
+                        <td>@s.Id</td>
+                        <td>@s.UserId</td>
+                        <td>@s.OrderTime.ToString()</td>
+                        <td>@s.DueFor.ToString()</td>
+                        <td class="text-center">
+                            @if (s.FoodReady)
+                            {
+                                <button disabled=@IsTaskRunning @onclick="(() => MarkFoodAsReady(s))" class="btn btn-success btn-sm">
+                                    <span class="oi oi-check"></span> </button>
+                            }
+                            else
+                            {
+                                <button disabled=@IsTaskRunning @onclick="(()=> MarkFoodAsReady(s))" class="btn btn-danger btn-sm">
+                                    <span class="oi oi-x" ></span></button>
+                            }
+                        </td>
+                        <td class="text-center">
+                            @if (s.OrderFulfilled)
+                            {
+                                <button disabled=@IsTaskRunning @onclick="(() => MarkOrderAsFulfilled(s))" class="btn btn-success btn-sm">
+                                    <span class="oi oi-check"></span></button>
+                            }
+                            else
+                            {
+                                <button disabled=@IsTaskRunning @onclick="(()=> MarkOrderAsFulfilled(s))" class="btn btn-danger btn-sm">
+                                    <span class="oi oi-x" ></span></button>
+                            }
+                        </td>
+                        <td><button @onclick="(() => ViewOrder(s.Id))" class="btn btn-info btn-sm">
+                            <span class ="oi oi-magnifying-glass"></span></button>
+                            <button @onclick="(() => DeleteOrder(s.Id))" class="btn btn-danger btn-sm">
+                            <span class ="oi oi-trash"></span></button>
+                        </td>
+                        
+                    </tr>
+                }
+            </tbody>
+        </table>
+</div>
+
+
+@code{
+    private bool IsTaskRunning;
+    private IList<Order> Orders = new List<Order>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Orders = await api.GetAllOrders();
+    }
+
+    protected async Task MarkFoodAsReady(Order order)
+    {
+        IsTaskRunning = true;
+
+        await api.MarkFoodReady(order);
+        Orders = await api.GetAllOrders();
+
+        IsTaskRunning = false;
+    }
+    protected async Task MarkOrderAsFulfilled(Order order)
+    {
+        IsTaskRunning = true;
+
+        await api.MarkOrderFulfilled(order);
+        Orders = await api.GetAllOrders();
+
+        IsTaskRunning = false;
+    }
+
+    private void DeleteOrder(int orderId)
+    {
+
+        NavigationManager.NavigateTo($"order/delete/{orderId}");
+
+            
+    }
+
+    private void GoToActiveOrders()
+    {
+        NavigationManager.NavigateTo($"ordermenu");
+    }
+
+
+    private void ViewOrder(int id)
+    {        
+        NavigationManager.NavigateTo($"order/view/{id}");
+    }
+
+}

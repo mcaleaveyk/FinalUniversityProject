@@ -1,0 +1,75 @@
+@page "/categorymenu"
+@inject CategoryService api
+@inject NavigationManager NavigationManager
+@inject IToastService toastService
+@attribute [Authorize(Roles="Admin")]
+
+<h2>Category Management</h2>
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page">Category Management</li>
+    </ol>
+</nav>
+
+<AuthorizeView Roles="Admin">
+    <button @onclick="AddCategory" class="btn btn-primary btn-sm mr-2 mb-2 mt-2"> 
+        <span class="oi oi-plus mr-2" aria-hidden="true"></span>Add Category
+    </button>
+</AuthorizeView>
+
+<div>
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var s in Categories)
+            {
+                <tr>
+                    <td>@s.Id</td>
+                    <td>@s.Name</td>
+                    <td><button @onclick="(() => ViewCategory(s.Id))" class="btn btn-info btn-sm">
+                        <span class ="oi oi-magnifying-glass"></span></button>
+
+                        <button @onclick="(() => UpdateCategory(s.Id))" class="btn btn-info btn-sm">
+                        <span class ="oi oi-pencil"></span></button>
+                        
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+@code{
+    private IList<CategoryDto> Categories = new List<CategoryDto>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Console.WriteLine("Getting items from api");
+        Categories = await api.GetCategories();
+    }
+
+    private void ViewCategory(int id)
+    {        
+        NavigationManager.NavigateTo($"category/view/{id}");
+    }
+
+    private void AddCategory()
+    {
+        NavigationManager.NavigateTo("category/add");
+    }
+
+    private void UpdateCategory(int id)
+    {
+        NavigationManager.NavigateTo($"category/update/{id}");
+    }
+
+
+}

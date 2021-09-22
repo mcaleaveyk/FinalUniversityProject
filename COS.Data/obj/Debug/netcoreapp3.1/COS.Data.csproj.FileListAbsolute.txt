@@ -1,0 +1,48 @@
+C:\Users\mcale\Documents\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.deps.json
+C:\Users\mcale\Documents\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.dll
+C:\Users\mcale\Documents\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.pdb
+C:\Users\mcale\Documents\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Core.dll
+C:\Users\mcale\Documents\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Core.pdb
+C:\Users\mcale\Documents\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csprojAssemblyReference.cache
+C:\Users\mcale\Documents\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csproj.CoreCompileInputs.cache
+C:\Users\mcale\Documents\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.AssemblyInfoInputs.cache
+C:\Users\mcale\Documents\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.AssemblyInfo.cs
+C:\Users\mcale\Documents\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csproj.CopyComplete
+C:\Users\mcale\Documents\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.dll
+C:\Users\mcale\Documents\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.pdb
+D:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.deps.json
+D:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.dll
+D:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.pdb
+D:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Core.dll
+D:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Core.pdb
+D:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csprojAssemblyReference.cache
+D:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.AssemblyInfoInputs.cache
+D:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.AssemblyInfo.cs
+D:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csproj.CoreCompileInputs.cache
+D:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csproj.CopyComplete
+D:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.dll
+D:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.pdb
+G:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.deps.json
+G:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.dll
+G:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.pdb
+G:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Core.dll
+G:\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Core.pdb
+G:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csprojAssemblyReference.cache
+G:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csproj.CoreCompileInputs.cache
+G:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.AssemblyInfoInputs.cache
+G:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.AssemblyInfo.cs
+G:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csproj.CopyComplete
+G:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.dll
+G:\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.pdb
+F:\COS grbckup\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.deps.json
+F:\COS grbckup\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.dll
+F:\COS grbckup\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Data.pdb
+F:\COS grbckup\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Core.dll
+F:\COS grbckup\COS\COS.Data\bin\Debug\netcoreapp3.1\COS.Core.pdb
+F:\COS grbckup\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csprojAssemblyReference.cache
+F:\COS grbckup\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csproj.CoreCompileInputs.cache
+F:\COS grbckup\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.AssemblyInfoInputs.cache
+F:\COS grbckup\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.AssemblyInfo.cs
+F:\COS grbckup\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.csproj.CopyComplete
+F:\COS grbckup\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.dll
+F:\COS grbckup\COS\COS.Data\obj\Debug\netcoreapp3.1\COS.Data.pdb

@@ -1,0 +1,65 @@
+@page "/userorders"
+@inject CategoryService api
+@inject OrderService service
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider auth
+@inject IToastService ToastService
+@attribute [Authorize]
+
+
+<h3>Order Cart</h3>
+<button class="btn btn-secondary" @onclick="@(() => BackToMenu())">
+    <span class="oi oi-arrow-thick-left"></span></button>
+
+@if(orders.Count == 0)
+{
+    <p class="mt-2">You don't have any orders yet! Click <a href="menuitems">here</a> to go back and get started. </p>
+}
+
+<div class="row">
+    @foreach (var s in orders)
+    {
+        <OrderCard Order="@s" OnOrderItemDeleted="()=>OrderItemDeleted()"  OnOrderDeleted="()=>OrderDeleted()" 
+            OnUpdate="()=>UpdateOrder(s.Id)" /> 
+    }
+</div>
+
+@code{
+    private IList<OrderDto> orders = new List<OrderDto>();
+    private int UserId { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        //get current userId onInitialise
+        var authstate = await auth.GetAuthenticationStateAsync();
+        var user = authstate.User;
+
+        int x = 0;
+        Int32.TryParse(user.Identity.Name, out x);
+        UserId = x;
+
+        orders = await service.GetMostRecentOrders(UserId);
+    }
+
+    protected async Task OrderItemDeleted()
+    {
+        orders = await service.GetMostRecentOrders(UserId);
+    }
+
+    protected async Task OrderDeleted()
+    {
+        orders = await service.GetMostRecentOrders(UserId);
+    }
+
+    private void UpdateOrder(int id)
+    {
+        NavigationManager.NavigateTo($"order/update/{id}");
+    }
+
+    private void BackToMenu()
+    {
+        NavigationManager.NavigateTo($"menuitems");
+    }
+
+
+}

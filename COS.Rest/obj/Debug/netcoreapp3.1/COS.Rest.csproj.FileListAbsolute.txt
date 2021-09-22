@@ -1,0 +1,581 @@
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.StaticWebAssets.xml
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.StaticWebAssets.xml
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.exe
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.deps.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.runtimeconfig.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.runtimeconfig.dev.json
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.pdb
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Accelist.FluentValidation.Blazor.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Blazored.LocalStorage.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Core.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Data.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.dll
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Core.pdb
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Data.pdb
+C:\Users\mcale\Documents\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.pdb
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csprojAssemblyReference.cache
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csproj.CoreCompileInputs.cache
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.AssemblyInfoInputs.cache
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.AssemblyInfo.cs
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.RazorTargetAssemblyInfo.cache
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csproj.CopyComplete
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\staticwebassets\COS.Rest.StaticWebAssets.Manifest.cache
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\staticwebassets\COS.Rest.StaticWebAssets.xml
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.dll
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.pdb
+C:\Users\mcale\Documents\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.genruntimeconfig.cache
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\appsettings.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.StaticWebAssets.xml
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.StaticWebAssets.xml
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.exe
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.deps.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.runtimeconfig.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.runtimeconfig.dev.json
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.pdb
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Accelist.FluentValidation.Blazor.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Blazored.LocalStorage.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Core.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Data.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.dll
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Core.pdb
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Data.pdb
+D:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.pdb
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csprojAssemblyReference.cache
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.AssemblyInfoInputs.cache
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.AssemblyInfo.cs
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csproj.CoreCompileInputs.cache
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.MvcApplicationPartsAssemblyInfo.cs
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.MvcApplicationPartsAssemblyInfo.cache
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.RazorTargetAssemblyInfo.cache
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csproj.CopyComplete
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\staticwebassets\COS.Rest.StaticWebAssets.Manifest.cache
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\staticwebassets\COS.Rest.StaticWebAssets.xml
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.dll
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.pdb
+D:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.genruntimeconfig.cache
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\appsettings.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.StaticWebAssets.xml
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.StaticWebAssets.xml
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.exe
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.deps.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.runtimeconfig.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.runtimeconfig.dev.json
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.pdb
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Accelist.FluentValidation.Blazor.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Blazored.LocalStorage.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Core.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Data.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.dll
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Core.pdb
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Data.pdb
+G:\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.pdb
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csprojAssemblyReference.cache
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csproj.CoreCompileInputs.cache
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.MvcApplicationPartsAssemblyInfo.cs
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.MvcApplicationPartsAssemblyInfo.cache
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.AssemblyInfoInputs.cache
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.AssemblyInfo.cs
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.RazorTargetAssemblyInfo.cache
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csproj.CopyComplete
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\staticwebassets\COS.Rest.StaticWebAssets.Manifest.cache
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\staticwebassets\COS.Rest.StaticWebAssets.xml
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.dll
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.pdb
+G:\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.genruntimeconfig.cache
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\appsettings.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.StaticWebAssets.xml
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.StaticWebAssets.xml
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.exe
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.deps.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.runtimeconfig.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.runtimeconfig.dev.json
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Rest.pdb
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Accelist.FluentValidation.Blazor.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Blazored.LocalStorage.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Core.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Data.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.dll
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Core.pdb
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Data.pdb
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\COS.Wasm.pdb
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csprojAssemblyReference.cache
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csproj.CoreCompileInputs.cache
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.MvcApplicationPartsAssemblyInfo.cs
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.MvcApplicationPartsAssemblyInfo.cache
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.AssemblyInfoInputs.cache
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.AssemblyInfo.cs
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.RazorTargetAssemblyInfo.cache
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.csproj.CopyComplete
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\staticwebassets\COS.Rest.StaticWebAssets.Manifest.cache
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\staticwebassets\COS.Rest.StaticWebAssets.xml
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.dll
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.pdb
+F:\COS grbckup\COS\COS.Rest\obj\Debug\netcoreapp3.1\COS.Rest.genruntimeconfig.cache
+F:\COS grbckup\COS\COS.Rest\bin\Debug\netcoreapp3.1\MatBlazor.dll

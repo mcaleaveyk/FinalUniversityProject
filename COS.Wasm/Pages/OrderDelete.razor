@@ -1,0 +1,75 @@
+@page "/order/delete/{Id:int}"
+@inject NavigationManager NavigationManager
+@inject OrderService api
+@inject IToastService toastService
+@attribute [Authorize(Roles="Admin")]
+
+<h3 class="mt-4 mb-4">Delete Order</h3>
+
+<h4 class="mb-1">Are you sure you want to delete this Order?</h4>
+<h5 class="mb-4">This will permanently delete the order from the database.</h5>
+
+@if (Order == null)
+{
+    <p>Loading order...</p>
+}
+else 
+{
+    <dl class="row">
+        <dt class="col-sm-3">Order Id:</dt>
+        <dd class="col-sm-9">@Order.Id</dd>
+
+        <dt class="col-sm-3">User Id:</dt>
+        <dd class="col-sm-9">@Order.UserId</dd>
+
+        <dt class="col-sm-3">Price:</dt>
+        <dd class="col-sm-9">£@Order.TotalPrice.ToString("F")</dd>
+
+        <dt class="col-sm-3">OrderDate</dt>
+        <dd class="col-sm-9">@Order.OrderTime</dd>
+
+        <dt class="col-sm-3">DueFor</dt>
+        <dd class="col-sm-9">@Order.DueFor</dd>
+        
+  
+    </dl>
+    <div class="row">
+        <button @onclick="() => Delete(Order.Id)" class="btn btn-danger mr-3">Delete</button>
+        <button @onclick="Cancel" class="btn btn-secondary">Cancel</button>
+    </div>
+}
+
+@code{
+    
+    [Parameter]
+    public int Id { get; set; }
+
+    public OrderDto Order { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {           
+        var result = await api.GetOrder(Id);  
+        result.Match(
+            s => Order = s,
+            e => toastService.ShowError(e.Message)
+        );     
+    }
+
+    private async Task Delete(int orderId)
+    {
+        Console.WriteLine("Deleting Order");
+        var result = await api.DeleteOrder(orderId); 
+        result.Match(
+            s => {
+                NavigationManager.NavigateTo($"ordermenu/all");
+                toastService.ShowSuccess("Order deleted successfully");
+            },
+                e => toastService.ShowError(e.Message)
+        );
+    }
+
+    private void Cancel()
+    {        
+         NavigationManager.NavigateTo("ordermenu/all");
+    }
+}

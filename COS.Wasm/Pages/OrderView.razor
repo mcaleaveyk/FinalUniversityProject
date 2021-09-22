@@ -1,0 +1,111 @@
+@page "/order/view/{Id:int}"
+@inject NavigationManager NavigationManager
+@inject OrderService Service
+@inject IToastService ToastService
+@attribute [Authorize(Roles="Admin")]
+
+@if (order == null)
+{
+    <p>Loading ....</p>
+}
+else
+{
+    <div class="row">
+        <div class="col-8">
+
+            <h3 class="ml-4 mb-4">Order @order.Id Details</h3>
+            <dl class="row ml-1">
+                <dt class="col-sm-3">User Id</dt>
+                <dd class="col-sm-9">@order.UserId
+                <a href=@($"user/view/{order.UserId}") class="btn btn-primary btn-sm ml-5" >View User</a></dd>
+            
+                <dt class="col-sm-3">Order placed</dt>
+                <dd class="col-sm-9">@order.OrderTime</dd>
+
+                <dt class="col-sm-3">Order Due</dt>
+                <dd class="col-sm-9">@order.DueFor</dd>
+
+                <dt class="col-sm-3">Customer Message</dt>
+                <dd class="col-sm-9">@order.Comment</dd>
+
+                <dt class="col-sm-3">Takeaway</dt>
+                <dd class="col-sm-9">
+                    @if(order.Takeaway)
+                    {
+                        <h7>Yes</h7>
+                    }
+                    else
+                    {
+                        <h7>No</h7>
+                    }
+                </dd>
+
+                <dt class="col-sm-3">Total Price</dt>
+                <strong><dd class="col-sm-9">£@order.TotalPrice.ToString("F")</dd></strong>                
+            </dl>
+
+        </div>
+    </div>
+
+
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Items</th>
+                <th>Quantity</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in order.OrderItems)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Quantity x</td>
+                    <td>£@item.Price.ToString("F")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div>
+        <button @onclick="(() => GoToAllOrders())" class="btn btn-info btn-sm">Back to All Orders</button>
+        <button @onclick="(() => GoToRecentOrders())" class="btn btn-info btn-sm">Back to Active Orders</button>
+    </div>
+
+
+
+}
+
+@code{
+
+    [Parameter]public int Id { get; set; }
+
+    private OrderDto order { get; set; }
+
+    
+    protected override async Task OnInitializedAsync()
+    {           
+        var result = await Service.GetOrder(Id);  
+        result.Match(
+            s => order = s,
+            e => ToastService.ShowError(e.Message)
+        );
+                  
+    } 
+
+    public void GoToAllOrders()
+    {
+        NavigationManager.NavigateTo($"ordermenu/all");
+    }
+
+    public void GoToRecentOrders()
+    {
+        NavigationManager.NavigateTo($"ordermenu");
+    }
+
+    private void ViewUser(int id)
+    {        
+        NavigationManager.NavigateTo($"user/view/{id}");
+    }
+
+}

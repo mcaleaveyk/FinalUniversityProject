@@ -1,0 +1,16 @@
+﻿@inject AuthenticationStateProvider AuthenticationStateProvider
+@using System.Security.Claims
+
+<AuthorizeView>
+    <Authorized>
+        <NavLink class="nav-link" href="logout">
+            <span class="oi oi-account-logout" aria-hidden="true"></span>
+            <span class="font-weight-light text-white">@context.User.Claims.SingleOrDefault(c => c.Type == ClaimTypes.Email).Value</span>
+        </NavLink>
+    </Authorized>
+    <NotAuthorized>
+        <NavLink class="nav-link" href="login">
+            <span class="oi oi-person" aria-hidden="true"></span> Login/Register
+        </NavLink>
+    </NotAuthorized>
+</AuthorizeView>

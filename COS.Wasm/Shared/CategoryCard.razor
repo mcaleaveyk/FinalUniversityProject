@@ -1,0 +1,77 @@
+@inject IToastService toastService
+@inject OrderItemService api
+@inject UserFavouriteService service
+
+<div class="card mt-1">    
+    <h5 class="card-title text-center mt-3">@Category.Name </h5>       
+        <table class="table table-striped">
+            <tbody>
+                @foreach(var s in Category.Items)
+                {
+                    if(s.InStock == true)
+                    {
+                    <tr>
+                        <td class="text-left"><a href="" @onclick="@(() => toastService.ShowInfo(@s.Description, @s.Name))" @onclick:preventDefault>@s.Name</a></td>
+                        <td class="text-left">@($"£{s.Price.ToString("F")}")</td>
+                        <td class="text-right"><button class="btn btn-success btn-sm" disabled="@IsTaskRunning" @onclick="@(() => AddItemToOrder(s.Id))">
+                            <span class ="oi oi-plus"></span></button>
+                            <button class="btn btn-info btn-sm" disabled=@IsTaskRunning @onclick="@(() => AddItemToFavourites(s.Id))">
+                            <span class ="oi oi-heart"></span></button>
+                        </td>       
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+ 
+
+@code {  
+    public bool IsTaskRunning = false;
+
+    public AddItemToOrderDto dto { get; set; } = new AddItemToOrderDto();
+    public UserFavouriteDto ufDto { get; set; } = new UserFavouriteDto();
+    [Parameter]  
+    public CategoryDto Category { get; set; }
+
+    [Parameter]
+    public int OrderId { get; set; }
+    [Parameter]
+    public int UserId { get; set; }
+    [Parameter]
+    public EventCallback OnUserFavouriteAdded { get; set; }
+
+    protected async Task AddItemToOrder(int itemId)
+    {
+        IsTaskRunning = true;
+        dto.OrderId = OrderId;
+        dto.ItemId = itemId;
+        var result = await api.AddItemToOrder(dto);
+        result.Match(
+                s => {
+                    toastService.ShowSuccess($"Item added to order successfully");
+                },
+                e => toastService.ShowError(e.Message)
+        ); 
+        IsTaskRunning = false;
+    }
+
+    protected async Task AddItemToFavourites(int itemId)
+    {
+        IsTaskRunning = true;
+        ufDto.UserId = UserId;
+        ufDto.ItemId = itemId;
+        var result = await service.AddItemToFavourites(ufDto);
+        result.Match(
+                s => {
+                    toastService.ShowSuccess($"Item added to favourites successfully");
+                },
+                e => toastService.ShowError(e.Message)
+            );
+        await OnUserFavouriteAdded.InvokeAsync(ufDto);
+        IsTaskRunning = false; 
+    }
+    
+}
+

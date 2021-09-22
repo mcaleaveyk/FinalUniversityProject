@@ -1,0 +1,57 @@
+@page "/item/update/{Id:int}"
+@inject NavigationManager NavigationManager
+@inject ItemService Service
+@inject IToastService ToastService
+@attribute [Authorize(Roles="Admin")]
+
+<h3 class="mt-4 mb-4">Update Menu Item</h3>
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="menutest">Menu Management</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Update Item</li>
+    </ol>
+</nav>
+
+@if(Item == null)
+{   
+     <p>Loading item...</p>
+}
+else
+{
+    <ItemForm Item="Item" OnSave="Save" OnCancel="Cancel"></ItemForm>
+}
+
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    public ItemDto Item { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {      
+        var result = await Service.GetItem(Id);  
+        result.Match(
+            i => Item = i,
+            e => ToastService.ShowError(e.Message)
+        );       
+    }
+
+    private async Task Save()
+    {
+        var result = await Service.UpdateItem(Item); 
+        result.Match(
+            s => { 
+                NavigationManager.NavigateTo("menutest");
+                ToastService.ShowSuccess("Item updated successfully");
+            },
+            e => ToastService.ShowError(e.Message)
+        );
+    }
+
+    private void Cancel()
+    {        
+        NavigationManager.NavigateTo("menutest");
+        ToastService.ShowInfo("Item update cancelled");
+    }
+}

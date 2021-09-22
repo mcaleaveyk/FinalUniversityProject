@@ -1,0 +1,99 @@
+@inject CategoryService api
+@using COS.Wasm.Pages
+
+<EditForm Model="@Item" OnValidSubmit="Save">
+    <FluentValidator />
+    
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <InputText id="Name" @bind-Value="Item.Name" class="form-control" />
+        <ValidationMessage For="@(() => Item.Name)" />
+    </div>
+    
+    <div class="form-group">
+        <label for="Price">Price</label>
+        <InputNumber id="Course" @bind-Value="Item.Price" class="form-control" />
+        <ValidationMessage For="@(() => Item.Price)"/>
+    </div>
+
+    <div class="row">
+        <div class="form-group col-6">
+            <label for="Description">Description</label>
+            <InputTextArea id="Description" @bind-Value="Item.Description" class="form-control" />
+            <ValidationMessage For="@(() => Item.Description)"/>
+        </div>
+
+        <div class="form-group col-6">
+            <label for="Age">Instock</label>
+            <InputCheckbox id="Instock" @bind-Value="Item.InStock" class="form-control" />
+            <ValidationMessage For="@(() => Item.InStock)"/>
+        </div>
+    </div>
+
+    <div class="col-12 row">
+        <label for="category" class="col-sm-2 col-form-label">
+            Category
+        </label>
+        <CustomInputSelect id="category" @bind-Value="@Item.CategoryId" class="form-control">
+            <option value="0">Select a category</option>
+            @foreach (var cat in Categories)
+             {
+                <option value="@cat.Id">@cat.Name</option>
+             }
+        </CustomInputSelect>
+        <ValidationMessage For="@(()=> Item.CategoryId)"/>
+    </div>
+
+    @*<div class="col-12 row">
+        <label for="size" class="col-sm-2 col-form-label">
+            Size
+        </label>
+            <InputSelect @bind-Value="@ItemSize" class="form-control">
+                    @foreach (var size in Enum.GetValues(typeof(Size)))
+                    {
+                        <option value="@size">@size</option>
+                    }
+            </InputSelect>
+            <ValidationMessage For="@(()=> Item.Size)"/>
+    </div>*@    
+
+    <div class="form-group mb-4 mt-4">
+        <button type="submit" class="btn btn-primary">Save</button>
+        <button class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+    </div>
+    
+</EditForm>
+
+@code{
+
+    private IList<CategoryDto> Categories = new List<CategoryDto>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Console.WriteLine("Getting categories from api");
+        Categories = await api.GetCategories();
+        ItemSize = Item.Size.ToString();
+    }
+
+    [Parameter]
+    public ItemDto Item { get; set; }
+
+    [Parameter] 
+    public EventCallback<ItemDto> OnSave { get; set; }
+
+    [Parameter] 
+    public EventCallback OnCancel { get; set; }
+
+    //Needed as selectlist doesnt support ints
+    public string ItemSize { get; set; }
+    
+    private void Cancel()
+    {
+        OnCancel.InvokeAsync(null);
+    }
+
+    private void Save() 
+    {       
+        OnSave.InvokeAsync(Item);       
+    }
+}

@@ -1,0 +1,32 @@
+@page "/item/add"
+@inject NavigationManager NavigationManager
+@inject ItemService Service
+@inject IToastService toastService
+@attribute [Authorize(Roles="Admin")]
+
+<h3 class="mt-4 mb-4">Add Item</h3>
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="menutest">Menu Management</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Add Item</li>
+    </ol>
+</nav>
+
+<ItemForm Item="Item" OnSave="OnAddItem" OnCancel="OnCancelAddItem" />
+
+@code {
+    public ItemDto Item { get; set; } = new ItemDto();
+
+    private async Task OnAddItem(ItemDto dto)
+    {
+        var s = await Service.AddItem(dto);        
+        NavigationManager.NavigateTo("menutest");
+        toastService.ShowSuccess("item added successfully");
+    }
+
+    private void OnCancelAddItem()
+    {        
+         NavigationManager.NavigateTo("menutest");
+         toastService.ShowInfo("Add item cancelled");
+    }
+}

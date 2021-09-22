@@ -1,0 +1,89 @@
+@page "/menutest"
+@inject ItemService api
+@inject NavigationManager NavigationManager
+@inject IToastService toastService
+@attribute [Authorize(Roles="Admin")]
+
+<h2>Menu Management</h2>
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item active" aria-current="page">Menu Management</li>
+  </ol>
+</nav>
+
+<AuthorizeView Roles="Admin">
+    <button @onclick="AddItem" class="btn btn-primary btn-sm mr-2 mb-2 mt-2"> 
+        <span class="oi oi-plus mr-2" aria-hidden="true"></span>Add Item
+    </button>
+</AuthorizeView>
+
+<table class="table table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>In Stock</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var s in Items)
+        {
+            <tr>
+                <td>@s.Name</td>
+                <td>@s.Category.Name</td>
+                <td>£@s.Price.ToString("F")</td>
+                <td>
+                    @if (s.InStock)
+                    {
+                        <span class="oi oi-check"></span>
+                    }
+                    else
+                    {
+                        <span class="oi oi-x"></span>
+                    }
+                </td>
+                <td>
+                    <button @onclick="(() => ViewItem(s.Id))" class="btn btn-info btn-sm">
+                        <span class="oi oi-magnifying-glass"></span>
+                    </button>
+                    <button @onclick="(() =>UpdateItem(s.Id))" class="btn btn-info btn-sm">
+                        <span class="oi oi-pencil"></span>
+                    </button>
+
+
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code{
+    private IList<Item> Items = new List<Item>();
+    private IList<Item> Fillings = new List<Item>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        Console.WriteLine("Getting items from api");
+        Items = await api.GetItems();
+        Fillings = await api.GetFillings();
+    }
+
+    private void ViewItem(int id)
+    {
+        NavigationManager.NavigateTo($"item/view/{id}");
+    }
+
+    private void UpdateItem(int id)
+    {
+        NavigationManager.NavigateTo($"item/update/{id}");
+    }
+
+    private void AddItem()
+    {
+        NavigationManager.NavigateTo("item/add");
+    }
+
+}

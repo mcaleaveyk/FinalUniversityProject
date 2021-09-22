@@ -1,0 +1,91 @@
+@page "/usersubmittedorders"
+@inject CategoryService api
+@inject OrderService service
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider auth
+@inject IToastService ToastService
+@attribute [Authorize]
+
+<h3>Your Submitted Orders</h3>
+@if(RecentOrders.Count == 0)
+{
+    <p>You don't have any orders yet! Click <a href="menuitems">'Create Order'</a> to get started. </p>
+}
+
+<div class="row">
+    @foreach (var s in RecentOrders)
+    {
+        <div class="card m-2" style="width: 25rem;">
+            <h5 class="card-title text-center mt-3">OrderId: @s.Id</h5>
+            <div class="card-body">       
+                <table class="table table-striped">
+                    <tbody>
+                        @foreach(var oi in s.OrderItems)
+                        {
+                            <tr>
+                                <td>@oi.Name</td>
+                                <td>@($"{oi.Quantity} x")</td>
+                                <td>@($"£{oi.Price.ToString("F")}")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="card-footer">
+                <div class="d-flex justify-content-around">
+                    <h5>Total: @($"£{s.TotalPrice.ToString("F")}")</h5>  
+                        <button class="btn btn-danger btn-sm"@onclick="@(() => DeleteOrder(@s.Id))">Delete Order</button>                  
+                </div>
+                <div class="d-flex justify-content-around mt-1">
+                @if(s.FoodReady)
+                {
+                    <p>Order Ready</p>
+                }
+                else
+                {
+                    <p>Order not ready</p>
+                }
+            </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+@code{
+
+    private int UserId { get; set; }
+
+    private IList<OrderDto> RecentOrders = new List<OrderDto>();
+
+    protected override async Task OnInitializedAsync()
+    {           
+        //get current userId onInitialise
+        var authstate = await auth.GetAuthenticationStateAsync();
+        var user = authstate.User;
+
+        int x = 0;
+        Int32.TryParse(user.Identity.Name, out x);
+        UserId = x;
+
+        RecentOrders = await service.GetUsersSubmittedOrders(UserId);
+    }
+
+    protected async Task DeleteOrder(int orderId)
+    {
+        Console.WriteLine("Deleting Order");
+        var result = await service.DeleteOrder(orderId); 
+            result.Match(
+                s => {
+                    ToastService.ShowSuccess("Order deleted successfully");
+                },
+                e => ToastService.ShowError(e.Message)
+            ); 
+            RecentOrders = await service.GetUsersSubmittedOrders(UserId);
+    }
+
+
+
+
+
+}

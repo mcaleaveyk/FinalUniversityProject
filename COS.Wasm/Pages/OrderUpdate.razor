@@ -1,0 +1,68 @@
+@page "/order/update/{Id:int}"
+@inject NavigationManager NavigationManager
+@inject OrderService Service
+@inject IToastService ToastService
+@inject AuthenticationStateProvider auth
+@attribute [Authorize]
+
+<h3 class="mt-4 mb-4">Place Order</h3>
+
+@if(Order == null)
+{   
+     <p>Loading item...</p>
+}
+else if( UserId != Order.UserId )
+{
+    NavigationManager.NavigateTo("/");
+}
+else
+{
+    <OrderUpdateForm Order="Order" OnSave="Save" OnCancel="Cancel"></OrderUpdateForm>
+}
+
+
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private int UserId { get; set; }
+
+    public OrderDto Order { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {      
+        var result = await Service.GetOrder(Id);  
+        result.Match(
+            i => Order = i,
+            e => ToastService.ShowError(e.Message)
+        ); 
+
+        //get current userId onInitialise
+        var authstate = await auth.GetAuthenticationStateAsync();
+        var user = authstate.User;
+
+        int x = 0;
+        Int32.TryParse(user.Identity.Name, out x);
+        UserId = x;
+      
+    }
+
+    private async Task Save()
+    {
+        var result = await Service.UpdateOrder(Order); 
+        result.Match(
+            s => { 
+                NavigationManager.NavigateTo("/");
+                ToastService.ShowSuccess("Order placed successfully!");
+            },
+            e => ToastService.ShowError(e.Message)
+        );
+    }
+
+    private void Cancel()
+    {        
+        NavigationManager.NavigateTo("userorders");
+        ToastService.ShowInfo("Order placement cancelled");
+    }
+}

@@ -1,0 +1,40 @@
+@inject CategoryService api
+@using COS.Wasm.Pages
+
+<EditForm Model="@Category" OnValidSubmit="Save">
+    <FluentValidator />
+    
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <InputText id="Name" @bind-Value="Category.Name" class="form-control" />
+        <ValidationMessage For="@(() => Category.Name)" />
+    </div>   
+
+    <div class="form-group mb-4">
+        <button type="submit" class="btn btn-primary">Save</button>
+        <button class="btn btn-secondary" @onclick="Cancel">Cancel</button>
+    </div>
+    
+</EditForm>
+
+@code{
+
+    [Parameter]
+    public CategoryDto Category { get; set; }
+
+    [Parameter] 
+    public EventCallback<CategoryDto> OnSave { get; set; }
+
+    [Parameter] 
+    public EventCallback OnCancel { get; set; }
+    
+    private void Cancel()
+    {
+        OnCancel.InvokeAsync(null);
+    }
+
+    private void Save() 
+    {       
+        OnSave.InvokeAsync(Category);       
+    }
+}
